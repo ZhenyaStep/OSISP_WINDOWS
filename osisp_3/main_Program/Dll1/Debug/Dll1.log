@@ -1,0 +1,11 @@
+﻿  Dll1.cpp
+c:\users\zheny\source\repos\consoleapplication1\dll1\dll1.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\consoleapplication1\dll1\dll1.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\consoleapplication1\dll1\dll1.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\consoleapplication1\dll1\dll1.cpp(120): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\consoleapplication1\dll1\dll1.cpp(36): warning C4101: nb: неиспользованная локальная переменная
+c:\users\zheny\source\repos\consoleapplication1\dll1\dll1.cpp(176): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\consoleapplication1\dll1\dll1.cpp(184): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\consoleapplication1\dll1\dll1.cpp(207): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\consoleapplication1\dll1\dll1.cpp(202): warning C4101: temp: неиспользованная локальная переменная
+  Dll1.vcxproj -> C:\Users\zheny\source\repos\ConsoleApplication1\Debug\Dll1.dll

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\zheny\source\repos\osisp_4\osisp_4\source.cpp(277): warning C4101: thread_state: неиспользованная локальная переменная
+c:\users\zheny\source\repos\osisp_4\osisp_4\source.cpp(407): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\osisp_4\osisp_4\source.cpp(415): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\osisp_4\osisp_4\source.cpp(491): warning C4018: <: несоответствие типов со знаком и без знака
+  osisp_4.vcxproj -> C:\Users\zheny\source\repos\osisp_4\Debug\osisp_4.exe

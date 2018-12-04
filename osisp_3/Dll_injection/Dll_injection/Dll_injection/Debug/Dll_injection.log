@@ -1,0 +1,6 @@
+﻿  Dll_injection.cpp
+  dllmain.cpp
+  Создание кода...
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\zheny\source\repos\Dll_injection\Dll_injection\Debug\Dll_injection.lib ш юс·хъЄ C:\Users\zheny\source\repos\Dll_injection\Dll_injection\Debug\Dll_injection.exp
+dllmain.obj : warning LNK4217: ыюъры№эю юяЁхфхыхээ√щ ёшьтюы _PrintStr@0 шьяюЁЄшЁютрэ т ЇєэъЎш■ _DllMain@12
+  Dll_injection.vcxproj -> C:\Users\zheny\source\repos\Dll_injection\Dll_injection\Debug\Dll_injection.dll

@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+c:\users\zheny\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(324): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zheny\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(112): warning C4715: solveCommand: значение возвращается не при всех путях выполнения
+c:\users\zheny\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(151): warning C4715: writeToFile: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\zheny\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
